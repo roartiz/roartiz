@@ -1,4 +1,4 @@
-### This isn't where I parked my car! While I wait for an Uber, I'm here as a fledgling developer, ready to learn and burn.
+### This isn't where I parked my car! While I wait for my Uber, I'm here as a fledgling developer, ready to learn and burn. I have a little bit of experience with Java, and I'm currently learning Python!
 
 <!--
 **roartiz/roartiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
